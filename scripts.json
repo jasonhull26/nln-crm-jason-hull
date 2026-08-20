@@ -28,7 +28,7 @@
       "id": "presentation-1",
       "category": "Presentation Follow-Up",
       "name": "After They Watch",
-      "content": "Hey {{firstName}}, awesome. What did you like best?"
+      "content": "Awesome, {{firstName}}! What stood out to you most about what you saw?"
     },
     {
       "id": "1779484267281",
@@ -157,5 +157,5 @@
       "content": "No worries at all {{firstName}}. I've got some people moving forward so I need to prioritize my time, but if timing changes later feel free to reach back out."
     }
   ],
-  "lastUpdated": "2026-08-20T04:30:46.063Z"
+  "lastUpdated": "2026-08-20T04:31:57.745Z"
 }

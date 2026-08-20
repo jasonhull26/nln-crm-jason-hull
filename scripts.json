@@ -136,7 +136,7 @@
       "id": "1782170984636",
       "category": "Follow-Up",
       "name": "FU - 3",
-      "content": "Hey {{firstName}}, looks like the timing may not be right, which is totally fine.\n\nI've got some others moving forward, so I'm going to focus there for now.\n\nIf anything changes, feel free to reach out.\n"
+      "content": "Hey {{firstName}}, it looks like the timing may not be right, and that’s completely fine.\n\nI’ll go ahead and close the loop for now so I can focus on helping the people who are ready to move forward.\n\nIf anything changes and you’d like to learn more about the sportsbook side hustle, feel free to reach out anytime."
     },
     {
       "id": "followup-1",
@@ -163,5 +163,5 @@
       "content": "This is a test follow up script to see if this is saving to github"
     }
   ],
-  "lastUpdated": "2026-08-20T04:29:45.178Z"
+  "lastUpdated": "2026-08-20T04:30:20.869Z"
 }

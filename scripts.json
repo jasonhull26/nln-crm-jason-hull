@@ -76,7 +76,7 @@
       "id": "initial-2",
       "category": "Initial Outreach",
       "name": "Location Based",
-      "content": "Hey {{firstName}}, I know we don't know each other, but I saw you're in [City]. We're expanding there right now and helping people create an extra income stream from home. If you're open to taking a quick look, cool. If not, no worries."
+      "content": "Hey {{firstName}}, I know we haven’t met, but I saw that you’re in [City] and wanted to reach out.\n\nI’m currently connecting with people in your area who may be interested in a sportsbook-based side hustle they can do from home. It doesn’t require any sports knowledge and takes an hour or less a day.\n\nWould you be open to taking a quick look? If not, no worries at all."
     },
     {
       "id": "1779233101061",
@@ -163,5 +163,5 @@
       "content": "This is a test follow up script to see if this is saving to github"
     }
   ],
-  "lastUpdated": "2026-08-20T04:20:51.231Z"
+  "lastUpdated": "2026-08-20T04:21:40.101Z"
 }

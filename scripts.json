@@ -130,7 +130,7 @@
       "id": "1782170935314",
       "category": "Follow-Up",
       "name": "FU - 2",
-      "content": "Hey {{firstName}}, no pressure at all.\n\nJust curious, have you looked into anything related to trading education or market analysis before?\n"
+      "content": "Hey {{firstName}}, there’s no pressure at all.\n\nI’m just curious—have you ever looked into using sportsbooks as a side hustle before, or would this be completely new to you?"
     },
     {
       "id": "1782170984636",
@@ -163,5 +163,5 @@
       "content": "This is a test follow up script to see if this is saving to github"
     }
   ],
-  "lastUpdated": "2026-08-20T04:29:04.392Z"
+  "lastUpdated": "2026-08-20T04:29:45.178Z"
 }

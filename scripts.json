@@ -112,7 +112,7 @@
       "id": "1783087308859",
       "category": "Follow-Up",
       "name": "Promo FU - 2",
-      "content": "Hey {{firstName}}, quick question...\n\nHave you ever had any interest in learning how to read charts and understand the markets, or is that just not something that's on your radar right now?\n"
+      "content": "Hey {{firstName}}, quick question…\n\nHave you ever been interested in learning how people use sportsbooks as a side hustle, or is that just not something that’s on your radar right now?"
     },
     {
       "id": "1783087357870",
@@ -163,5 +163,5 @@
       "content": "This is a test follow up script to see if this is saving to github"
     }
   ],
-  "lastUpdated": "2026-08-20T04:26:59.819Z"
+  "lastUpdated": "2026-08-20T04:27:47.666Z"
 }

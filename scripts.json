@@ -82,7 +82,7 @@
       "id": "1779233101061",
       "category": "Initial Outreach",
       "name": "Occupation",
-      "content": "Hey {{firstName}}, I know we don’t know each other, but I noticed you’re a realtor. We work with a lot of people in sales who are looking for an additional stream of income without interfering with what they already do. Open to taking a look?"
+      "content": "Hey {{firstName}}, I know we haven’t met, but I noticed you’re a realtor and wanted to reach out.\n\nI’m working with a sportsbook-based side hustle that can fit around an existing career without interfering with your regular schedule. It doesn’t require any sports knowledge and takes an hour or less a day.\n\nWould you be open to taking a quick look?"
     },
     {
       "id": "1779233171830",
@@ -163,5 +163,5 @@
       "content": "This is a test follow up script to see if this is saving to github"
     }
   ],
-  "lastUpdated": "2026-08-20T04:21:40.101Z"
+  "lastUpdated": "2026-08-20T04:22:28.634Z"
 }

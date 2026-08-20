@@ -64,7 +64,7 @@
       "id": "1781804443541",
       "category": "Initial Outreach",
       "name": "Outreach 1 - Occupation",
-      "content": "Hey {{firstName}}, I know we don’t know each other.\n\nI noticed you’re in real estate and wanted to reach out.\n\nFor the last few years, I’ve been involved with a trading education community that teaches people trading and market analysis as a skill they can learn alongside their current profession.\n\nWould you be open to taking a quick look?"
+      "content": "Hey {{firstName}}, I know we haven’t met, but I noticed you’re in real estate and wanted to reach out.\n\nA few months ago, I got involved with a sportsbook-based side hustle that follows a simple, step-by-step process. It doesn’t require any sports knowledge and can be done alongside your current profession in an hour or less a day.\n\nWould you be open to taking a quick look?"
     },
     {
       "id": "initial-1",
@@ -163,5 +163,5 @@
       "content": "This is a test follow up script to see if this is saving to github"
     }
   ],
-  "lastUpdated": "2026-08-20T04:19:00.381Z"
+  "lastUpdated": "2026-08-20T04:19:55.980Z"
 }

@@ -124,7 +124,7 @@
       "id": "1782170760381",
       "category": "Follow-Up",
       "name": "FU - 1",
-      "content": "Hey {{firstName}}, just wanted to circle back on my last message.\n\nNo worries either way, but were you open to taking a quick look at what I mentioned?\n"
+      "content": "Hey {{firstName}}, I just wanted to circle back on my last message.\n\nNo pressure either way, but would you be open to taking a quick look at the sportsbook-based side hustle I mentioned?\n"
     },
     {
       "id": "1782170935314",
@@ -163,5 +163,5 @@
       "content": "This is a test follow up script to see if this is saving to github"
     }
   ],
-  "lastUpdated": "2026-08-20T04:28:27.000Z"
+  "lastUpdated": "2026-08-20T04:29:04.392Z"
 }

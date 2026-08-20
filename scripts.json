@@ -99,8 +99,8 @@
     {
       "id": "1781128697877",
       "category": "Initial Outreach",
-      "name": "Freinds List",
-      "content": "Hey {{firstName}}, I know we don't know each other, but I'm going through my friends list and noticed we have some mutual friends. I wasn't sure if you'd be open to exploring an additional income stream, but if so, I have a short video that explains what I'm doing. Interested in taking a look?\n"
+      "name": "Friends List",
+      "content": "Hey {{firstName}}, I was going through my friends list and realized we’ve never really connected.\n\nI recently started a sportsbook-based side hustle that doesn’t require any sports knowledge and takes an hour or less a day. I have a short video explaining exactly how it works.\n\nWould you like me to send it to you?"
     },
     {
       "id": "1783087259781",
@@ -163,5 +163,5 @@
       "content": "This is a test follow up script to see if this is saving to github"
     }
   ],
-  "lastUpdated": "2026-08-20T04:24:13.528Z"
+  "lastUpdated": "2026-08-20T04:25:10.713Z"
 }

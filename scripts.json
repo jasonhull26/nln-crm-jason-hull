@@ -52,7 +52,7 @@
       "id": "1783087182777",
       "category": "Initial Outreach",
       "name": "Promo OutReach",
-      "content": "Hey {{firstName}}, I know we don't know each other.\n\nI noticed we have a few mutual friends and wanted to reach out.\n\nI'm connected with a trading education community that's offering a 7-Day Test Drive so people can experience the education before deciding if it's a good fit.\n\nWould you be open to taking a quick look?"
+      "content": "Hey {{firstName}}, I know we haven’t met, but I noticed we have a few mutual friends and wanted to introduce myself.\n\nI’m connected with a sportsbook-based side hustle that doesn’t require any sports knowledge and can be done in an hour or less a day.\n\nWould you be open to taking a quick look at how it works?"
     },
     {
       "id": "1781804393423",
@@ -163,6 +163,5 @@
       "content": "This is a test follow up script to see if this is saving to github"
     }
   ],
-  "lastUpdated": "2026-07-20T21:55:58.824Z",
-  "source": "CRM default scripts snapshot for new builder CRM defaults"
+  "lastUpdated": "2026-08-20T04:17:52.138Z"
 }

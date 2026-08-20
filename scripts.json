@@ -106,7 +106,7 @@
       "id": "1783087259781",
       "category": "Follow-Up",
       "name": "Promo FU - 1",
-      "content": "Hey {{firstName}}, just wanted to bump this in case it got buried.\n\nThe reason I reached out is because a lot of people like the chance to actually experience the education before making any decision.\n\nNo pressure at all, if you're open, I'm happy to send over the overview.\n"
+      "content": "Hey {{firstName}}, I just wanted to bump this in case my last message got buried.\n\nThe reason I reached out is that most people appreciate being able to see exactly how this sportsbook-based side hustle works before deciding whether it’s something they want to explore.\n\nThere’s absolutely no pressure. If you’re open to it, I’d be happy to send you the short overview video."
     },
     {
       "id": "1783087308859",
@@ -163,5 +163,5 @@
       "content": "This is a test follow up script to see if this is saving to github"
     }
   ],
-  "lastUpdated": "2026-08-20T04:25:10.713Z"
+  "lastUpdated": "2026-08-20T04:26:59.819Z"
 }

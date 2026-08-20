@@ -118,7 +118,7 @@
       "id": "1783087357870",
       "category": "Follow-Up",
       "name": "Promo FU 3",
-      "content": "Hey {{firstName}}, I haven't heard back, so I'm going to focus my time on the people who are moving forward with the 7-Day Test Drive.\n\nIf the timing changes and you'd like to check it out, just let me know. Wishing you all the best.\n"
+      "content": "Hey {{firstName}}, I haven’t heard back, so I’ll go ahead and close the loop for now.\n\nI’m going to focus my time on the people who are ready to take a closer look at the sportsbook side hustle. If the timing changes and you’d like to see the overview, just let me know.\n\nWishing you all the best!"
     },
     {
       "id": "1782170760381",
@@ -163,5 +163,5 @@
       "content": "This is a test follow up script to see if this is saving to github"
     }
   ],
-  "lastUpdated": "2026-08-20T04:27:47.666Z"
+  "lastUpdated": "2026-08-20T04:28:27.000Z"
 }

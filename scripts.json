@@ -94,7 +94,7 @@
       "id": "1780533816925",
       "category": "Initial Outreach",
       "name": "Past Customers",
-      "content": "Hey {{firstName}},\n\nWould you be interested in seeing our updated video? Lots of good changes you might like."
+      "content": "Hey {{firstName}},\n\nI recently got involved with a sportsbook-based side hustle that’s completely different from trading, selling, or marketing. I have a short video that explains how it works, and I thought it might interest you.\n\nWould you like me to send it over?"
     },
     {
       "id": "1781128697877",
@@ -163,5 +163,5 @@
       "content": "This is a test follow up script to see if this is saving to github"
     }
   ],
-  "lastUpdated": "2026-08-20T04:23:26.361Z"
+  "lastUpdated": "2026-08-20T04:24:13.528Z"
 }
